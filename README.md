@@ -1,5 +1,6 @@
 # Hi there 👋👨‍💻
-**I'm Lukas Finne, Student🎓 at IT-Högskolan Gothenburg. I am currently studying to be become an Java Developer.** Contact: lukas.ikvm1@gmail.com 
+**I'm Lukas Finne, Student🎓 at IT-Högskolan Gothenburg. I am currently studying to be become an Java Developer.** 
+#### Contact me at: lukas.ikvm1@gmail.com 
 
 ## Technologies 🔧
 
