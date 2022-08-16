@@ -1,5 +1,5 @@
 # Hi there 👋👨‍💻
-**I'm Lukas Finne, Student🎓 at IT-Högskolan Gothenburg. I am currently studying to be become an Full stack developer.** 
+**I'm Lukas Finne, Student🎓 at IT-Högskolan Gothenburg. I am currently studying to become a Full stack developer.** 
 #### Contact me at: lukas.ikvm1@gmail.com 
 
 ## Technologies 🔧
