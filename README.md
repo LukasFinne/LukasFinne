@@ -1,5 +1,5 @@
 # Hi there 👋👨‍💻
-**I'm Lukas Finne, Working as an IT-consult. I am currently working towards getting better as a programmer.** 
+**I'm Lukas Finne, Working as an IT-consult.** 
 #### Contact me at: lukas.ikvm1@gmail.com 
 
 ## Technologies 🔧
